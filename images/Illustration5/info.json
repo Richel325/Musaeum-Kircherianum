@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 20,
+    "height" : 32
+  }, {
+    "width" : 39,
+    "height" : 63
+  }, {
+    "width" : 77,
+    "height" : 126
+  }, {
+    "width" : 153,
+    "height" : 252
+  }, {
+    "width" : 306,
+    "height" : 504
+  }, {
+    "width" : 612,
+    "height" : 1008
+  } ],
+  "profile" : "level0",
+  "width" : 612,
+  "id" : "https://Richel325.github.io/Musaeum Kircherianum/images/Illustration5",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 1008
+}
