@@ -1,0 +1,67 @@
+{
+  "id" : "https://Richel325.github.io/Musaeum Kircherianum/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in Richel325/Musaeum-Kircherianum project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 612,
+    "id" : "https://Richel325.github.io/Musaeum Kircherianum/images/Illustration5/canvas/",
+    "label" : {
+      "none" : [ "Illustration5" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Richel325.github.io/Musaeum Kircherianum/images/Illustration5/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Richel325.github.io/Musaeum Kircherianum/images/Illustration5/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 20,
+              "height" : 32
+            }, {
+              "width" : 39,
+              "height" : 63
+            }, {
+              "width" : 77,
+              "height" : 126
+            }, {
+              "width" : 153,
+              "height" : 252
+            }, {
+              "width" : 306,
+              "height" : 504
+            }, {
+              "width" : 612,
+              "height" : 1008
+            } ],
+            "profile" : "level0",
+            "width" : 612,
+            "id" : "https://Richel325.github.io/Musaeum Kircherianum/images/Illustration5",
+            "type" : "ImageService3",
+            "@context" : "http://iiif.io/api/image/3/context.json",
+            "height" : 1008
+          } ],
+          "format" : "image/jpeg",
+          "width" : 612,
+          "id" : "https://Richel325.github.io/Musaeum Kircherianum/images/Illustration5/full/max/0/default.jpg",
+          "type" : "Image",
+          "height" : 1008
+        },
+        "target" : "https://Richel325.github.io/Musaeum Kircherianum/images/Illustration5/canvas/"
+      } ]
+    } ],
+    "height" : 1008
+  } ]
+}
